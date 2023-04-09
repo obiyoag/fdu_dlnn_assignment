@@ -1,0 +1,8 @@
+__pycache__/
+data
+.vscode
+params/*.npy
+!params/lr1e-05_hd512_wd0.0001.npy
+visualize/*.png
+!visualize/weight.png
+!visualize/lr1e-05_hd512_wd0.0001.png
