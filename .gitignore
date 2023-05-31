@@ -1,8 +1,6 @@
-__pycache__/
-data
-.vscode
-params/*.npy
-!params/lr1e-05_hd512_wd0.0001.npy
-visualize/*.png
-!visualize/weight.png
-!visualize/lr1e-05_hd512_wd0.0001.png
+assignment1/params/*.npy
+!assignment1/params/lr1e-05_hd512_wd0.0001.npy
+assignment1/visualize/*.png
+!assignment1/visualize/weight.png
+!assignment1/visualize/lr1e-05_hd512_wd0.0001.png
+assignment2/task2/imgs/*
