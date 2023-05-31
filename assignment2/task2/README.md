@@ -1,4 +1,4 @@
-# Deep Learning and Neural Networks Assignment 2 Task1
+# Deep Learning and Neural Networks Assignment 2 Task2
 
 ## train Faster R-CNN
 
